@@ -1,0 +1,41 @@
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\bin\Debug\Hedgehog.exe.config
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Interop.Shell32.dll
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Hedgehog.csproj.ResolveComReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Hedgehog.exe
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Hedgehog.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\bin\Debug\Hedgehog.exe
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\bin\Debug\Hedgehog.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\bin\Debug\MySql.Data.dll
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\bin\Debug\Interop.Shell32.dll
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Hedgehog.frmMain.resources
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Hedgehog.Properties.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2013\Projects\Hedgehog\Hedgehog\obj\Debug\Hedgehog.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Hedgehog.exe.config
+C:\Users\Bernardo\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Interop.Shell32.dll
+C:\Users\Bernardo\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.csproj.ResolveComReference.cache
+C:\Users\Bernardo\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.exe
+C:\Users\Bernardo\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.pdb
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Hedgehog.exe.config
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Interop.Shell32.dll
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.csproj.ResolveComReference.cache
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.exe
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.pdb
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Hedgehog.exe
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Hedgehog.pdb
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\MySql.Data.dll
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Interop.Shell32.dll
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.csprojResolveAssemblyReference.cache
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.frmMain.resources
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.Properties.Resources.resources
+I:\Backup\Dropbox\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.csproj.GenerateResource.Cache
+C:\Users\basce\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\bin\Debug\Hedgehog.exe.config
+C:\Users\basce\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\basce\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Interop.Shell32.dll
+C:\Users\basce\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.csproj.ResolveComReference.cache
+C:\Users\basce\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.exe
+C:\Users\basce\Dropbox\Trabalho\Hedgehog\C#\Hedgehog\obj\Debug\Hedgehog.pdb
